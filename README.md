@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### im ramin 
+#### Im rAmin but you can call me rAmi 
 
 <!--
 Here are some ideas to get you started:
