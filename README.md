@@ -5,7 +5,7 @@
 
 <ul>
   <li>Happy Coding</li>
-  <li>Python - Djnago</li>
+  <li>Python - Django</li>
 </ul>
 
 <hr>
